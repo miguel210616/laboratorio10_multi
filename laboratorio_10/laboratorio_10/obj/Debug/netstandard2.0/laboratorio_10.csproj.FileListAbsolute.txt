@@ -1,0 +1,17 @@
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\bin\Debug\netstandard2.0\laboratorio_10.deps.json
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\bin\Debug\netstandard2.0\laboratorio_10.dll
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\bin\Debug\netstandard2.0\ref\laboratorio_10.dll
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\bin\Debug\netstandard2.0\laboratorio_10.pdb
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.csproj.AssemblyReference.cache
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\ViewToViewDemo.xaml.g.cs
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.AssemblyInfoInputs.cache
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.AssemblyInfo.cs
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.csproj.CoreCompileInputs.cache
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\XamlC.stamp
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.dll
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\ref\laboratorio_10.dll
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\laboratorio_10.pdb
+D:\wrkTecsup_5_ciclo\Multiplataforma\laboratorio_10\laboratorio_10\laboratorio_10\obj\Debug\netstandard2.0\BindingModeDemo.xaml.g.cs
